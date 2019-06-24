@@ -533,10 +533,21 @@
     <link rel="stylesheet" href="css/style.css">
   
   </head>
-  <br>
-  <h1>Our Team</h1>
-  <p>Pallavi</p>
-  <p>Bhumica</p>
+  <style>
+  img{
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+  }
+  </style>
+
+      
+  <img src="C:\Users\Admin\Downloads\symbol.png" class="rounded-circle" style="width:25%">
+  <h1 style="color: red">Our Team:</h1>
+  <h3>Pallavi L V</h3>
+  <h3>Bhumica B</h3>
+<br>
+   <hr> 
   
   
   
@@ -545,7 +556,7 @@
     
       
     
-  <h2>about</h2>
+  <h1>About:</h1>
   
     <section class="business-talking">
       <!--business-talking-start-->
