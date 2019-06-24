@@ -394,7 +394,7 @@
           <div class="card h-100">
             <img class="card-img-top" src="img4.jpg" height="500" width="325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Card title</h4>
+              <h4 class="card-title">Flower</h4>
          
             </div>
             <div class="card-footer">
@@ -417,7 +417,7 @@
           <div class="card h-100">
             <img class="card-img-top" src="img3.jpeg" height="500" width="325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Card title</h4>
+              <h4 class="card-title">Nature</h4>
               
             </div>
             <div class="card-footer">
@@ -435,9 +435,9 @@
         
         <div class="col-lg-3 col-md-6 mb-4">
           <div class="card h-100">
-            <img class="card-img-top" src"img3.jpg" height="500" width="325" alt="">          
+            <img class="card-img-top" src"img2.jpg" height="500" width="325" alt="">          
             <div class="card-body">
-              <h4 class="card-title">Card title</h4>
+              <h4 class="card-title">Peacock</h4>
              
             </div>
             <div class="card-footer">
@@ -457,7 +457,7 @@
           <div class="card h-100">
             <img class="card-img-top" src="avg2.jpg" height="500" weight="325" alt="">
             <div class="card-body">
-              <h4 class="card-title">Card title</h4>
+              <h4 class="card-title">Super hero</h4>
       
             </div>
             <div class="card-footer">
