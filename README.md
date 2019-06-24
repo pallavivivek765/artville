@@ -94,7 +94,7 @@
           </ol>
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-              <img class="d-block img-fluid" src=paint.jpg" alt="First slide">
+              <img class="d-block img-fluid" src="paint.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
               <img class="d-block img-fluid" src=" paint2.jpeg" alt="Second slide">
@@ -146,7 +146,7 @@
                     
                     <h2>add to cart</h2>
                   
-                    <a href="https://github.com/pallavivivek765/artville/blob/master/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -183,7 +183,7 @@
                     
                     <h2>add to cart</h2>
                   
-                    <a href="file:///C:/Users/Admin/Desktop/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -220,7 +220,7 @@
                     
                     <h2>add to cart</h2>
                   
-                    <a href="file:///C:/Users/Admin/Desktop/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -257,7 +257,7 @@
                     
                     <h2>add to cart</h2>
                     
-                    <a href="file:///C:/Users/Admin/Desktop/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -294,7 +294,7 @@
                     
                     <h2>add to cart</h2>
                     
-                    <a href="file:///C:/Users/Admin/Desktop/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -331,7 +331,7 @@
                     
                     <h2>add to cart</h2>
                   
-                    <a href="file:///C:/Users/Admin/Desktop/check%20out%20form.html" target="_blank">Add to cart</a>
+                    <a href="check%20out%20form.html" target="_blank">Add to cart</a>
                     
                     </body>
               </div>
@@ -435,7 +435,7 @@
         
         <div class="col-lg-3 col-md-6 mb-4">
           <div class="card h-100">
-            <img class="card-img-top" src"img2.jpg" height="500" width="325" alt="">          
+            <img class="card-img-top" src="img2.jpg" height="500" width="325" alt="">          
             <div class="card-body">
               <h4 class="card-title">Peacock</h4>
              
