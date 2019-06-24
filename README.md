@@ -533,6 +533,12 @@
     <link rel="stylesheet" href="css/style.css">
   
   </head>
+  <br>
+  <h1>Our Team</h1>
+  <p>Pallavi</p>
+  <p>Bhumica</p>
+  
+  
   
   <body>
     
