@@ -76,8 +76,8 @@
          <br>
         <h1 class="my-4">ARTVILLE</h1>
         <div class="list-group">
-          <a href="#" class="list-group-item"><a href="file:///C:/Users/Admin/Desktop/hmm.html">Featured Paintings</a></a>
-          <a href="#" class="list-group-item"><a href="file:///C:/Users/Admin/Desktop/hmmmmm.html">Most selling</a></a>
+          <a href="#" class="list-group-item"><a href="hmm.html">Featured Paintings</a></a>
+          <a href="#" class="list-group-item"><a href="hmmmmm.html">Most selling</a></a>
           <a href="#" class="list-group-item">Artist</a>
         </div>
 
